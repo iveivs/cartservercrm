@@ -1,0 +1,76 @@
+{
+    "users": [
+      {
+        "name": "name2TEST",
+        "phone": 444444,
+        "email": "name4@name.name",
+        "product": "course-html",
+        "status": "new",
+        "data": "14.12.2023",
+        "id": 15
+      },
+      {
+        "name": "name33",
+        "phone": "4444441",
+        "email": "name4@name.name",
+        "product": "course-js",
+        "status": "complete",
+        "data": "14.12.2023",
+        "id": 12
+      },
+      {
+        "name": "name3",
+        "phone": 333666,
+        "email": "name3@name.name",
+        "product": "course-html",
+        "status": "inwork",
+        "data": "16.12.2023",
+        "id": 25
+      },
+      {
+        "name": "name4",
+        "phone": 444444,
+        "email": "name1@name.name",
+        "product": "course-js",
+        "status": "complete",
+        "data": "14.12.2023",
+        "id": 23
+      },
+      {
+        "name": "name1",
+        "phone": 111222,
+        "email": "name1@name.name",
+        "product": "course-js",
+        "status": "new",
+        "data": "16.12.2023",
+        "id": 26
+      },
+      {
+        "name": "name4",
+        "phone": 444444,
+        "email": "name4@name.name",
+        "product": "course-js",
+        "status": "new",
+        "data": "14.12.2023",
+        "id": 13
+      },
+      {
+        "name": "name3",
+        "phone": "2224445",
+        "email": "name2@name.name",
+        "product": "course-php",
+        "status": "new",
+        "data": "16.12.2023",
+        "id": 24
+      },
+      {
+        "name": "name3",
+        "phone": 555444,
+        "email": "name5@name.name",
+        "product": "course-js",
+        "status": "new",
+        "data": "19.12.2023",
+        "id": 27
+      }
+    ]
+  }
